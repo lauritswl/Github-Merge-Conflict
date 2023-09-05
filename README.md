@@ -15,5 +15,5 @@ What is the name of this branch: My_Other_Solution
 What is your name: Laurits
 
 ### Question 3 ###
-
 How does a pipe from tidyverse look in R: %>%
+
