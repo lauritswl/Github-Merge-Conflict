@@ -8,7 +8,7 @@ ____________
 ### But this will push the lines around
 
 ### Question 1 ###
-What is the name of this branch: My_Other_Solution
+What is the name of this branch: New_Merge_Problem_2
 
 ### Question 2 ###
 What is your name: Laurits Wieslander Lyngbaek
@@ -19,3 +19,5 @@ How does a pipe from tidyverse look in R: %>%
 ### Question 4 ### 
 I have added this other question, that a previous version of the document forgot:)
 
+### There may be a merge problem above but this would be okay, i am just writing new comments here
+And this is just some text to answer my comment above, this should not dissapear :)
