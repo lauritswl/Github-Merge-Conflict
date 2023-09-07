@@ -4,8 +4,18 @@ This is the file in the main branch, and would normally be the assignment descri
 For each branch please fill out this MD:
 ____________
 
-What is the name of this branch: 
+## I will comment throughout this MD to make my code readable
+### But this will push the lines around
 
-What is your name:
+### Question 1 ###
+What is the name of this branch: Add_question_four
 
-How does a pipe from tidyverse look in R: 
+### Question 2 ###
+What is your name: Laurits Wieslander Lyngbaek
+
+### Question 3 ###
+How does a pipe from tidyverse look in R: %>%
+
+### Question 4 ### 
+I have added this other question, that a previous version of the document forgot:)
+
