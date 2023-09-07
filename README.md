@@ -19,3 +19,6 @@ How does a pipe from tidyverse look in R: %>%
 ### Question 4 ### 
 I have added this other question, that a previous version of the document forgot:)
 
+
+### There may be a merge problem above but this would be okay, i am just writing new comments here
+And this is just some text to answer my comment above, this should not dissapear :)
