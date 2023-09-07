@@ -4,8 +4,8 @@ This is the file in the main branch, and would normally be the assignment descri
 For each branch please fill out this MD:
 ____________
 
-What is the name of this branch: 
+What is the name of this branch: Merge_1_Adding_My_Answer
 
-What is your name:
+What is your name: Laurits 
 
-How does a pipe from tidyverse look in R: 
+How does a pipe from tidyverse look in R: %>%
