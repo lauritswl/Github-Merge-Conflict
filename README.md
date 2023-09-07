@@ -11,10 +11,12 @@ ____________
 What is the name of this branch: Main Branch
 
 ### Question 2 ###
-What is your name: Laurits
+What is your name: Laurits Wieslander Lyngbaek
 
 ### Question 3 ###
 How does a pipe from tidyverse look in R: %>%
 
-I also need to have this clarification at the end of my document, but not at the end.
+Please grade my work with kindness:)
+
+I also need to have this clarification at the end of my document
 
