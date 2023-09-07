@@ -11,8 +11,9 @@ ____________
 What is the name of this branch: Main Branch
 
 ### Question 2 ###
-What is your name: Laurits
+What is your name: Laurits Wieslander Lyngbaek
 
 ### Question 3 ###
 How does a pipe from tidyverse look in R: %>%
 
+Please grade my work with kindness:)
