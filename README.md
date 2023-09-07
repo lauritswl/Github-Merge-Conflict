@@ -17,3 +17,6 @@ What is your name: Laurits Wieslander Lyngbaek
 How does a pipe from tidyverse look in R: %>%
 
 Please grade my work with kindness:)
+
+I also need to have this clarification at the end of my document
+
