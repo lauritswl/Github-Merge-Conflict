@@ -16,3 +16,5 @@ What is your name: Laurits
 ### Question 3 ###
 How does a pipe from tidyverse look in R: %>%
 
+I also need to have this clarification at the end of my document, but not at the end.
+
